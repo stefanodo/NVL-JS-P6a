@@ -1,0 +1,11 @@
+var miNombre = 'Stefano';
+
+var miApellido = 'DellOlio';
+
+var miEdad = 43;
+
+var diasDeLaSemana = ['lunes', 'martes', 'miercoles', 'jueves', 'viernes', 'sabado', 'domingo']
+
+var gravedad = 9.81;
+
+var primerosImpares = [1,3,5]
